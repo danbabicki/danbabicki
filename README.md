@@ -1,4 +1,4 @@
-### Hi there 👋 danbabicki is holding the files for danbabicki.com, which is my personal portfolio page.
+### Hi there 👋 
 
 <!--
 **danbabicki/danbabicki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
