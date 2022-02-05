@@ -1,4 +1,4 @@
-### Hi there weary traveler. Take a load off. 👋 
+### Hi there weary traveler. 👋 
 
 <!--
 **danbabicki/danbabicki** is a ✨ _special_ ✨ repository because it tells you all about its owner who is a eager new programmer with skills as a problem solver, web developer, and financial analyst. danbabicki is on his path of learning software development and data science. 
